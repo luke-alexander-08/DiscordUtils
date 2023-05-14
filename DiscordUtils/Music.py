@@ -2,7 +2,7 @@ import asyncio
 import aiohttp
 import re
 try:
-    import youtube_dl
+    import yt_dlp as youtube_dl
     import discord
     has_voice = True
 except ImportError:
