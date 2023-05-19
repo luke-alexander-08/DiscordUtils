@@ -1,4 +1,4 @@
-# This package is not maintained anymore
+# Fork of DiscordUtils that is maintained by me, not very well. Uses yt_dlp and fixes issues with youtube API
 
 # DiscordUtils
 A very useful library made to be used in with [discord.py](https://pypi.org/project/discord.py/)
